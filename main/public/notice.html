@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    /* Import the Red Hat Display and Cabin fonts from Google Fonts */
+@import url('https://fonts.googleapis.com/css?family=Red+Hat+Display|Cabin');
+
+/* Use a dark theme for the body element */
+body {
+  background-color: #011440;
+  color: #fff;
+  text-align: center;
+}
+
+
+
+.button-3:focus:not(:focus-visible):not(.focus-visible) {
+  box-shadow: none;
+  outline: none;
+}
+
+.button-3:hover {
+  background-color: #2c974b;
+}
+
+.button-3:focus {
+  box-shadow: rgba(46, 164, 79, .4) 0 0 0 3px;
+  outline: none;
+}
+
+.button-3:disabled {
+  background-color: #94d3a2;
+  border-color: rgba(27, 31, 35, .1);
+  color: rgba(255, 255, 255, .8);
+  cursor: default;
+}
+
+.button-3:active {
+  background-color: #298e46;
+  box-shadow: rgba(20, 70, 32, .2) 0 1px 0 inset;
+}
+
+/* Use the Red Hat Display font for headings */
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Red Hat Display', sans-serif;
+  font-weight: 'black';
+}
+
+/* Use the Cabin font for all other text */
+p, input, button {
+  font-family: 'Cabin', sans-serif;
+}
+
+/* Style the menu element */
+#menu {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 10px;
+}
+
+/* Style the menu items */
+#menu a {
+  color: #fff;
+  text-decoration: none;
+  margin: 10px;
+}
+
+/* Add a hover effect to the menu items */
+#menu a:hover {
+  color: #f0f;
+}
+
+a {
+  color: cyan;
+}
+  </style>
+    <style>
+        
+        #explanation {
+            margin-top: 30px;
+        }
+
+        #confirm-link {
+            display: block;
+            margin-top: 20px;
+        }
+    </style>
+    <title>Xylix</title>
+    <script type="module" src="/@vite/client"></script>
+
+    <meta charset="UTF-8">
+    <link rel="icon" type="image/svg+xml" href="https://xylix-cdn.aidroidtechusa.repl.co/assets/images/xylix-icon-favicon.png">
+</head>
+<body>
+    <div id="banner">
+        <img src="https://cdn.xylix.xyz/assets/images/xylix-banner-logo.png" alt="xylix logo" height=150px>
+    </div>
+    <h1>⚠️ Important!  Please read this before you start using Xylix!</h1>
+    <h2>Xylix is an AI therapist designed to provide emotional support and conversation. However, it is not a replacement for medical professionals or mental health experts. If you are experiencing serious emotional distress or mental health issues, please seek help from a qualified medical professional or therapist.</h2>
+    <h3>Remember, while Xylix can be a helpful companion, it cannot provide medical advice or treatment.</h3>
+    <h1><a href="/Dashboard">I understand that Xylix is not professional help and would like to continue.</a></h1>
+</body>
+</html>
