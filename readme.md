@@ -18,8 +18,8 @@ Xylix is not a substitute for professional help. Xylix is not a licensed therapi
 
 You can access Xylix through the website or the app:
 
-- Website: [xylix.xyz]
-- App: [app.xylix.xyz]
+- Website: https://xylix.xyz
+- App: https://app.xylix.xyz
 
 To start chatting with Xylix, simply type your message in the text box and press enter. Xylix will respond to you as soon as possible. You can chat with Xylix about anything you want, such as how you are feeling, what you are going through, or what you want to achieve.
 
