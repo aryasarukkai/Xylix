@@ -1,4 +1,7 @@
+<img src="https://cdn.xylix.xyz/assets/images/xylix-banner-logo.png" alt="xylix logo" height=150px>
+
 # Xylix: AI Mental Health Tool 🧠
+## ⚡️ https://app.xylix.xyz | https://xylix.xyz
 
 Xylix is an AI mental health tool that uses the OpenAI API to create a virtual therapist. You can chat with Xylix about your feelings, thoughts, and problems, and get personalized feedback and support. Xylix is designed to help you cope with stress, anxiety, depression, and other mental health issues.
 
