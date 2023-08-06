@@ -35,3 +35,8 @@ You can end the chat anytime by typing "bye" or "quit". Xylix will say goodbye t
 Xylix is powered by the OpenAI API, which is a collection of AI models that can generate natural language responses based on user input. Xylix uses the GPT-3 model, which is one of the most advanced language models in the world.
 
 Xylix was created by a team of students for the United Hacks 2023 hackathon. 
+
+
+## Screenshots 🖼️
+![form](https://cdn.discordapp.com/attachments/1068349165756743790/1137645033126899754/image.png)
+![xylix app](https://media.discordapp.net/attachments/1068349165756743790/1137645308654927932/image.png)
